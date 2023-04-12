@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @GWTelvin
 - 👀 I’m interested in Cryptocurrency and Information Technology.
 - 🌱 I’m currently learning on ALx Software Engineering program.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 Reach me at telvinwachira75@gmail.com
 
 <!---
 GWTelvin/GWTelvin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
